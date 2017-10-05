@@ -12,6 +12,7 @@
 # Strategy
 
 Creation of a Black Box. (IA, Deep/Machine learning)
+
 State of the Art [Research, Open Source, Prorietary]
  - Deep learning & Marchine Learning
  - Text Mining
@@ -37,7 +38,9 @@ Project coordinator: **\*TBD\***
 
 Doc & Dev
 > Github
+
 Planning & Coordination
 > Trello
+
 Live messaging
 > Google Hangout
