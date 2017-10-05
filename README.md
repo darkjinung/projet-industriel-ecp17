@@ -1,7 +1,7 @@
 # Industrial Project
 ### ECP 2017-2018
 
-Authors: Amine **B.**, Amine **A.**, Yoannis **T.**
+*Authors*: Amine **B.**, Amine **A.**, Yoannis **T.**
 
 # Vision
 
@@ -23,10 +23,11 @@ State of the Art [Research, Open Source, Prorietary]
 
 
 # Project
+Project coordinator: **\*TBD\***
   - [ ] Roles et Responsabilities
   - [ ] Phase zero
     - [x] Opportunity study
-    - [ ] Feasibility study --> *State of the Art*
+    - [ ] Feasibility study (*State of the Art*)
   - [ ] Definition (Analyse & Conception)
   - [ ] Realisation (POC)
   - [ ] Qualification (testing via promotion)
@@ -34,6 +35,9 @@ State of the Art [Research, Open Source, Prorietary]
 
 # Working environment 
 
-GitHub			--> Doc & Dev
-Trello			--> Planning & Coordination
-Google Hangout 		--> Live messaging
+Doc & Dev
+> Github
+Planning & Coordination
+> Trello
+Live messaging
+> Google Hangout
