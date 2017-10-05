@@ -17,7 +17,7 @@ Etat de l'art [Recherche, Open Source, Proriétaire]
 ----> Text Mining
 ----> Sentiment Analysis
 ----> Topic Analysis
-----> Labeling technics
+----> Semantic Analysis
 
 Développement de la boite noir au travers d'un projet
 
