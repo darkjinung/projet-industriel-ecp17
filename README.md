@@ -6,6 +6,7 @@
 # Vision
 
 **Input :** Text, RSS feed, Twitter
+
 **Ouput :** Sentiment and subject of that sentiment
 
 
@@ -36,11 +37,11 @@ Project coordinator: **\*TBD\***
 
 # Working environment 
 
-Doc & Dev
+**Documentation & Development**
 > Github
 
-Planning & Coordination
+**Planning & Coordination**
 > Trello
 
-Live messaging
+**Live messaging**
 > Google Hangout
