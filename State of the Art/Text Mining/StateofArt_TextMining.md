@@ -20,14 +20,15 @@ While words nouns, verbs, adverbs and adjectives are the building blocks of mean
 
 # Academic Works
 There is a huge number of academic and research publications that reference text mining as a tool to perform advanced or deep corpora or free text analysis. 
+
 Below a short selection of articles :
-Deep Parsing in Watson : http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf
-SpeedRead: A Fast Named Entity Recognition Pipeline : https://arxiv.org/pdf/1301.2857.pdf
-Quantifying the Informativeness of Similarity Measurements : http://jmlr.org/papers/volume18/16-296/16-296.pdf
-Proactive Learning for Named Entity Recognition : http://www.aclweb.org/anthology/W17-2314
-A Text Mining Framework for Accelerating the Semantic Curation of Literature : https://link.springer.com/content/pdf/10.1007%2F978-3-319-43997-6_44.pdf
-Topic detection using paragraph vectors to support active learning in systematic reviews : http://www.sciencedirect.com/science/article/pii/S1532046416300442?via%3Dihub#
-Analysis of the effect of sentiment analysis on extracting adverse drug reactions from tweets and forum posts : http://www.sciencedirect.com/science/article/pii/S1532046416300508
+* Deep Parsing in Watson : http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf
+* SpeedRead: A Fast Named Entity Recognition Pipeline : https://arxiv.org/pdf/1301.2857.pdf
+* Quantifying the Informativeness of Similarity Measurements : http://jmlr.org/papers/volume18/16-296/16-296.pdf
+* Proactive Learning for Named Entity Recognition : http://www.aclweb.org/anthology/W17-2314
+* A Text Mining Framework for Accelerating the Semantic Curation of Literature : https://link.springer.com/content/pdf/10.1007%2F978-3-319-43997-6_44.pdf
+* Topic detection using paragraph vectors to support active learning in systematic reviews : http://www.sciencedirect.com/science/article/pii/S1532046416300442?via%3Dihub#
+* Analysis of the effect of sentiment analysis on extracting adverse drug reactions from tweets and forum posts : http://www.sciencedirect.com/science/article/pii/S1532046416300508
 
 Huge numner of publications can be found here : http://www.nactem.ac.uk/aigaion2/index.php?/publications
 
