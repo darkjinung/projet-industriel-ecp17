@@ -9,7 +9,7 @@ Every **Sprint consists of 4 phases** : plan, build, test and review.
 
 **3 Artifacts of Scrum**
 * Product backlog : where product owner lists product features called also stories
-* User story : is a way to describe a feature set. Most of the time a story is expressed as : As a XXX, I neeed YYY, So that ZZZ !
+* User story : is a way to describe a feature set. Most of the time a story is expressed as : As a XXX, I need YYY, So that ZZZ !
 Evrery sprint is made of a set of users stories
 * Burndown chart : shows the completion of works during the sprint 
 
