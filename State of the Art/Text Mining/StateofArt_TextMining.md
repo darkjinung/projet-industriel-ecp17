@@ -30,7 +30,7 @@ Below a short selection of articles :
 * Topic detection using paragraph vectors to support active learning in systematic reviews : http://www.sciencedirect.com/science/article/pii/S1532046416300442?via%3Dihub#
 * Analysis of the effect of sentiment analysis on extracting adverse drug reactions from tweets and forum posts : http://www.sciencedirect.com/science/article/pii/S1532046416300508
 
-Huge numner of publications can be found here : http://www.nactem.ac.uk/aigaion2/index.php?/publications
+Huge number of publications can be found here : http://www.nactem.ac.uk/aigaion2/index.php?/publications
 
 # Technologies
 ### **R Language** : various packages help to implement text mining tasks :
