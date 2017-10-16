@@ -14,6 +14,8 @@
 
 Creation of a Black Box. (IA, Deep/Machine learning)
 
+
+
 State of the Art [Research, Open Source, Proprietary]
  - Deep learning & Marchine Learning
  - Text Mining
@@ -45,3 +47,7 @@ Project coordinator: **\*TBD\***
 
 **Live messaging**
 > Google Hangout
+
+**Project Managment Method**
+> SCRUM
+
