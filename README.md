@@ -14,7 +14,7 @@
 
 Creation of a Black Box. (IA, Deep/Machine learning)
 
-State of the Art [Research, Open Source, Prorietary]
+State of the Art [Research, Open Source, Proprietary]
  - Deep learning & Marchine Learning
  - Text Mining
  - Sentiment Analysis
