@@ -26,7 +26,7 @@ State of the Art [Research, Open Source, Proprietary]
 
 # Project
 Project coordinator: **\*TBD\***
-  - [ ] Roles et Responsabilities
+  - [ ] Roles & Responsabilities
   - [ ] Phase zero
     - [x] Opportunity study
     - [ ] Feasibility study (*State of the Art*)
