@@ -14,7 +14,9 @@
 
 Creation of a Black Box. (IA, Deep/Machine learning)
 
-State of the Art [Research, Open Source, Prorietary]
+
+
+State of the Art [Research, Open Source, Proprietary]
  - Deep learning & Marchine Learning
  - Text Mining
  - Sentiment Analysis
@@ -26,7 +28,7 @@ State of the Art [Research, Open Source, Prorietary]
 
 # Project
 Project coordinator: **\*TBD\***
-  - [ ] Roles et Responsabilities
+  - [ ] Roles & Responsabilities
   - [ ] Phase zero
     - [x] Opportunity study
     - [ ] Feasibility study (*State of the Art*)
@@ -45,3 +47,7 @@ Project coordinator: **\*TBD\***
 
 **Live messaging**
 > Google Hangout
+
+**Project Managment Method**
+> SCRUM
+
