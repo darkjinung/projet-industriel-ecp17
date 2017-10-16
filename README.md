@@ -1,39 +1,47 @@
-# Projet Industriel
-# # ECP 2017-2018
+# Industrial Project
+### ECP 2017-2018
 
-Amine B., Amine A., Yoannis T.
+*Authors*: Amine **B.**, Amine **A.**, Yoannis **T.**
 
 # Vision
 
-Input : Texte, Flux RSS, Twitter
-Ouput : Tonalité (sentiment) du text ainsi que le sujet de ce sentiment
+**Input :** Text, RSS feed, Twitter
+
+**Ouput :** Sentiment and subject of that sentiment
 
 
-# Stratégie
+# Strategy
 
-Création d'une boite noire. (IA, Deep/Machine learning)
-Etat de l'art [Recherche, Open Source, Proriétaire]
-----> Deep learning & Marchine Learning
-----> Text Mining
-----> Sentiment Analysis
-----> Topic Analysis
-----> Semantic Analysis
+Creation of a Black Box. (IA, Deep/Machine learning)
 
-Développement de la boite noir au travers d'un projet
+State of the Art [Research, Open Source, Proprietary]
+ - Deep learning & Marchine Learning
+ - Text Mining
+ - Sentiment Analysis
+ - Topic Analysis
+ - Semantic Analysis
 
-
-# Projet
-  - Rôle et Responsabilités
-  - Phase zéro
-      -- Etude d'opportinuté --> OK
-      -- Etude de faisabilité --> Etat de l'art
-  - Definition (Analyse & Conception)
-  - Réalisation (POC)
-  - Qualification (testing via promotion)
+> Development of the Black Box through a project
 
 
-# Environnement de travail
+# Project
+Project coordinator: **SCRUM master** *per sprint*
+  - [ ] Roles & Responsabilities
+  - [ ] Phase zero
+    - [x] Opportunity study
+    - [ ] Feasibility study (*State of the Art*)
+  - [ ] Definition (Analyse & Conception)
+  - [ ] Realisation (POC)
+  - [ ] Qualification (testing via promotion)
 
-GitHub			--> Doc & Dev
-Trello			--> Planning & Coordination
-Google Hangout 		--> Dialogues (Messagerie vivante)
+
+# Working environment 
+
+**Documentation & Development**
+> Github
+
+**Planning & Coordination**
+> Trello
+
+**Live messaging**
+> Google Hangout
