@@ -5,10 +5,10 @@ How are thoses three things related? An image explains better than words:
 
 ![alt text](./images/AIMachineDeepGraphic.png)
 
-The field of Deep learning is included in the field of Machine learning, which is it self included in the field of Artificial Intelligence.
+The field of Deep learning is included in the field of Machine learning, which is itself included in the field of Artificial Intelligence.
 
 
-## First Machine that learned
+## The first machine that learned
 
 The first machine invented that learned was made in 1957 and was called the Perceptron. A very simple simulated neuron with adaptive "synaptic neurons" which adapted with trianing.
 
@@ -50,7 +50,7 @@ But how does it translate with a trainable AI?
 As you can see in the image above, we use the image with different convolution mask on the image to extract some features from the image. These images are used by combination in a first neural layer which trains its "synaps" with a non linear function to interact with lower level layers.
 
 
-One of the most used Multilayer Neural Network is the one invented by Yan LECUN (and associates) in 1989: ConvNet *or* Convolution Neural Network
+One of the most used Multilayer Neural Network is the one invented by Yan LECUN (and associates) in 1989 called LeNet. LeNet is what we now call a **ConvNet** *or* Convolution Neural Network (**CNN**).
 
 This model is now used everywhere. Image processing, text processing. Supervised models, unsupervised models.
 
