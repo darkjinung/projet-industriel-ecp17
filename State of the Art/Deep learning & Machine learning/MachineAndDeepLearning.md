@@ -16,7 +16,9 @@ The first machine invented that learned was made in 1957 and was called the Perc
 When we talk about Machine Learning we mainly talk about supervised learning models. Just like the Support Vector Machine (*SVM*) whose concept is as followed:
 
 > Input data is given a set class by the superviser (human)
+
 > When ever another input data is given, the SVM approximate its class depending on his training
+
 > SVM cannot estimate a class it doesn't know
 
 
@@ -66,6 +68,9 @@ Natural Language Processing (NLP) is also a very active subject in the area of r
 ## 4 missing pieces for AI
 
 >	Theoretical Understand of DL
+
 > Integrating DL with planning, attention, memory
+
 > Integrating supervised, unsupervised & reinforced models in one single algorithm
+
 > Effective ways to do unsupervised AI
