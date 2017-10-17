@@ -3,7 +3,7 @@
 How are thoses three things related? An image explains better than words:
 
 
-![alt text](./images/AIMachineDeepGraphic.png)
+![error loading image](./images/AIMachineDeepGraphic.png)
 
 The field of Deep learning is included in the field of Machine learning, which is itself included in the field of Artificial Intelligence.
 
@@ -29,11 +29,11 @@ This model has been used for over 50 years and is still used nowadays.
 
 With a Machine learning approche:
 
-![alt text](./images/MachineLearningFeaturesApproche.png)
+![error loading image](./images/MachineLearningFeaturesApproche.png)
 
 With a Deep learning approche:
 
-![alt text](./images/DeepLearningFeaturesApproche.png)
+![error loading image](./images/DeepLearningFeaturesApproche.png)
 
 We can make a parralel of this with Deep learning in text analysis:
 
@@ -45,7 +45,7 @@ But how does it translate with a trainable AI?
 **Multi-Layer Neural Network.**
 
 
-![alt text](./images/MultiLayerNeuralNetwork.png)
+![error loading image](./images/MultiLayerNeuralNetwork.png)
 
 As you can see in the image above, we use the image with different convolution mask on the image to extract some features from the image. These images are used by combination in a first neural layer which trains its "synaps" with a non linear function to interact with lower level layers.
 
