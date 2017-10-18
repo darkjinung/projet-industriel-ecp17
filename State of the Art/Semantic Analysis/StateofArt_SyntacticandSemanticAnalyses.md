@@ -1,10 +1,10 @@
-# Syntactic and Semantic Analyses
+	# Syntactic and Semantic Analyses
 
 ## Problematic
 
 To represent the meaning of a sentence we need a precise method because words have multiple meanings so the solution is the use of formal languages.
 
-There is varied types of knowledge relevant to natural language understanding:
+There are varied knowledge relevant to natural language understanding:
 
 **Syntactic knowledge**: how sequences of words form correct sentences. Knowledge of the rules of grammar.
 
@@ -25,7 +25,7 @@ then we need a general knowledge representation which allows a contextual interp
 Some process that help to understand efficiently a sentence:
 
 **Interpretation process**: maps natural language sentence to the formal language
-**Parser**: maps  natural language to their suntactic stucture on representation and their logical form ( uses the rules of gammar and word meanings )
+**Parser**: maps  natural language to their syntactic stucture on representation and their logical form ( uses the rules of gammar and word meanings )
 **Contextual interpretation** : maps the logical form to its final knowledge representation
 
 To accomplish the semantic and syntactic analysis , there will be common elements in any such parser :
@@ -34,9 +34,9 @@ To accomplish the semantic and syntactic analysis , there will be common element
 2. The processor will have an algorithm using the rules of the grammar
 3. an orcle , a mechanism of resolving ambiguities
 
-## What is a *good grammar* 
+## What is *good grammar* 
 
-A good grammar have to be:
+Good grammar has to be:
 
 	* General : the range of sentence the grammar analyzes correctly
 	* Selective : the range of non sentence it identifies as problematic 
