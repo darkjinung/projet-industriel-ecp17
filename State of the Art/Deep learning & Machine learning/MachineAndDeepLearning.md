@@ -17,7 +17,7 @@ When we talk about Machine Learning we mainly talk about supervised learning mod
 
 > Input data is given a set class by the superviser (human)
 
-> When ever another input data is given, the SVM approximate its class depending on his training
+> Whenever another input data is given, the SVM approximates its class depending on his training
 
 > SVM cannot estimate a class it doesn't know
 
@@ -47,16 +47,16 @@ But how does it translate with a trainable AI?
 
 ![error loading image](./images/MultiLayerNeuralNetwork.png)
 
-As you can see in the image above, we use the image with different convolution mask on the image to extract some features from the image. These images are used by combination in a first neural layer which trains its "synaps" with a non linear function to interact with lower level layers.
+As you can see in the image above, we use the image with different convolution masks on the image to extract some features from the image. These images are used by combination in a first neural layer which trains its "synaps" with a non linear function to interact with lower level layers.
 
 
 One of the most used Multilayer Neural Network is the one invented by Yan LECUN (and associates) in 1989 called LeNet. LeNet is what we now call a **ConvNet** *or* Convolution Neural Network (**CNN**).
 
 This model is now used everywhere. Image processing, text processing. Supervised models, unsupervised models.
 
-First AI could define the image it was show, then it could seperate different objects inside an image. In 2015 we could creat an AI that described what it was seeing. However this was on static images. We are now capable of convolution on video, enabling an AI to understand what is happening in a video.
+In its early stages, AI could define the object of the image it was shown, then it could seperate different objects inside an image. In 2015 we could create an AI that described what it was seeing. However this was on static images. We are now capable of convolution on video, enabling an AI to understand what is happening in a video.
 
-We also have seen appear Deep Masking (very thin masking of objects to see multiple elements clumped up) and Inverted Convolution Networks (giving masks to AI and he tells what it represents).
+We also have seen appear the notion of Deep Masking (very thin masking of objects to see multiple elements clumped up) and Inverted Convolution Networks (giving masks to AI so he can tell what it represents).
 
 
 Natural Language Processing (NLP) is also a very active subject in the area of research in machine learning and deep learning.
