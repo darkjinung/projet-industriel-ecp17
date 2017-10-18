@@ -31,6 +31,8 @@ reviews.data <- read.csv2("./consumer-reviews-of-amazon-products/7817_1.csv",sep
 dim(reviews.data)
 ```
 
+*results*
+
     ## [1] 1597   27
 
 **Column names**
@@ -38,6 +40,8 @@ dim(reviews.data)
 ``` r
 names(reviews.data)
 ```
+
+*results*
 
     ##  [1] "id"                   "asins"                "brand"               
     ##  [4] "categories"           "colors"               "dateAdded"           
@@ -57,6 +61,8 @@ reviews.init <- select(reviews.data,c(1,20))
 reviews.init$row_id <- row.names(reviews.init)
 dim(reviews.init)
 ```
+
+*results*:
 
     ## [1] 1597    3
 
@@ -93,6 +99,8 @@ reviews_DTM <- reviews_DTM[rowSums(as.matrix(reviews_DTM[,-1])) != 0,]
 findFreqTerms(reviews_DTM, 1000)
 ```
 
+*results*:
+
     ## [1] "amazon" "more"   "kindle" "like"
 
 **Step5 : Runing LDA training using Gibbs Sampling Method**
@@ -122,6 +130,8 @@ ldaOut <- LDA(reviews_DTM,k, method="Gibbs", control=
 ``` r
 terms(ldaOut,6)
 ```
+
+*results*:
 
     ##      Topic 1   Topic 2      Topic 3      Topic 4    Topic 5      Topic 6 
     ## [1,] "love"    "ive"        "great"      "use"      "like"       "kindle"
