@@ -3,12 +3,11 @@
 
 *Authors*: Amine **B.**, Amine **A.**, Yoannis **T.**
 
-# Vision
-
-**Input :** Text, RSS feed, Twitter
-
-**Ouput :** Sentiment and subject of that sentiment
-
+# Goal
+Implement NLP "Proof Of Concept" that determines the topic(s) of a given customer review as well as the sentiment(s).
+In essence, POC will help to answer 2 key questions regarding a given review : 
+ - What : which topic the review is about ? For i.e. consumers will focus more on the screen of a new released laptop than on the performance or the overall shape 
+ - How : how consumers feel about the product ? For i.e happy, upset ...
 
 # Strategy
 
@@ -45,3 +44,7 @@ Project coordinator: **SCRUM master** *per sprint*
 
 **Live messaging**
 > Google Hangout
+
+**Project Managment Method**
+> SCRUM
+
