@@ -13,8 +13,6 @@ In essence, POC will help to answer 2 key questions regarding a given review :
 
 Creation of a Black Box. (IA, Deep/Machine learning)
 
-
-
 State of the Art [Research, Open Source, Proprietary]
  - Deep learning & Marchine Learning
  - Text Mining
@@ -26,7 +24,7 @@ State of the Art [Research, Open Source, Proprietary]
 
 
 # Project
-Project coordinator: **\*TBD\***
+Project coordinator: **SCRUM master** *per sprint*
   - [ ] Roles & Responsabilities
   - [ ] Phase zero
     - [x] Opportunity study
