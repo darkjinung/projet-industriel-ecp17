@@ -10,7 +10,7 @@ The field of Deep learning is included in the field of Machine learning, which i
 
 ## The first machine that learned
 
-The first machine invented that learned was made in 1957 and was called the Perceptron. A very simple simulated neuron with adaptive "synaptic neurons" which adapted with trianing.
+The first machine invented that learned was made in 1957 and was called the Perceptron. A very simple simulated neuron with adaptive "synaptic neurons" which adapted with training.
 
 
 When we talk about Machine Learning we mainly talk about supervised learning models. Just like the Support Vector Machine (*SVM*) whose concept is as followed:
