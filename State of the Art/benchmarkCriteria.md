@@ -10,4 +10,5 @@ In order to compare packages, we suggest to apply following metrics:
 * Assistance in choosing hyperparameters : check whether set up can be done per node, per iteration, whether changing parameters can be done before convergence, stop and continue
 * Performance : compare packages performance on various datasets, benchmarking should not be restricted to one dataset.
 
+
 Highly inspired from: <http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/>
