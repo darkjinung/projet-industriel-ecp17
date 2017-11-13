@@ -9,9 +9,9 @@ The benchmark of **"NLTK & Scikit-learn"** vs **"LingPipe"** reveals that the se
 2nd decision taken : based on the knowledge gathered so far, we are able to build and MVP (minimal viable product).
 
 The MVP will be composed of 3 functionalities:
-1- review classification
-2- review polarisation
-3- product key features extraction
+1. review classification
+2. review polarisation
+3. product key features extraction
 
 The next Sprint (number 3) will focus on modelisation of each functionality. Sprint 4 will focus on models integration and deployment. Finaly in Sprint 5 we will edit documentation required for midway review.
 
