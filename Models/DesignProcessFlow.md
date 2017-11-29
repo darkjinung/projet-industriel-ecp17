@@ -2,7 +2,7 @@ We describe here both main concepts and high level design steps of the customers
 
 
 ## **<span style="color:blue">Main Concepts</span>**
-
+ 
 The review system will be composed of various models :
 
 **1- Classifaction** : 
