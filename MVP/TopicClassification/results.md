@@ -1,4 +1,9 @@
-             precision    recall  f1-score   support
+#Results from the logarithmic classification of Topic classification
+
+
+With the lines bellow you can observe the report on the results from the Topic Classification block of our project
+
+              precision    recall  f1-score   support
 
           0       0.94      0.93      0.93      3175
           1       0.70      0.64      0.67      3009
