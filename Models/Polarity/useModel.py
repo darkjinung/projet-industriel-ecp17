@@ -26,11 +26,14 @@ def stem_tokens(tokens, stemmer):
 
 model = joblib.load('polarity_10p.pkl')
 
+# 1 - negative
+# 2 - positive
+
 string1 = "A customer review is a review of a product or service made by a customer who has purchased the product or service. Customer reviews are a form of customer feedback on electronic commerce and online shopping sites. ... The reviews may themselves be graded for usefulness or accuracy by other users."
 
-string2 = "this product sucks, aweful"
+string2 = "this product good"
 
-x_vector = model.vectorizer.transform([string2])
+x_vector = model.vectorizer.transform([string1])
 y_predicted = model.predict(x_vector)
 
 
