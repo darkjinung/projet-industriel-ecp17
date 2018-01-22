@@ -59,6 +59,6 @@ test_pred = log_model.predict(features[len(train_data_df):])
 
 print(classification_report(test_data_df.Sentiment, test_pred))
 
-log_model.vectorizer = vectorizer
-from sklearn.externals import joblib
-joblib.dump(log_model, 'polarity_10p.pkl')
+# log_model.vectorizer = vectorizer
+# from sklearn.externals import joblib
+# joblib.dump(log_model, 'polarity_10p.pkl')
