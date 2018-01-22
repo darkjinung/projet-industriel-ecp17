@@ -17,5 +17,5 @@ Evrery sprint is made of a set of users stories
 * Sprint planning : meeting gathering all stakeholders to estimate stories weight and Sprint backlog
 * Daily Scrum : team meeting to discuss here what was completed and plans for coming days
 * Sprint Review : team demonstrates what was accomplished and discuss about future releases
-* Retrospective : done together with Srpint Review to assess what went well and what went wrong, in order to improve for coming sprints 
+* Retrospective : done together with Sprint Review to assess what went well and what went wrong, in order to improve for coming sprints 
 
