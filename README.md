@@ -25,13 +25,13 @@ State of the Art [Research, Open Source, Proprietary]
 
 # Project
 Project coordinator: **SCRUM master** *per sprint*
-  - [ ] Roles & Responsabilities
-  - [ ] Phase zero
+  - [x] Roles & Responsabilities
+  - [x] Phase zero
     - [x] Opportunity study
-    - [ ] Feasibility study (*State of the Art*)
-  - [ ] Definition (Analyse & Conception)
-  - [ ] Realisation (POC)
-  - [ ] Qualification (testing via promotion)
+    - [x] Feasibility study (*State of the Art*)
+  - [x] Definition (Analyse & Conception)
+  - [x] Realisation (POC)
+  - [x] Qualification (testing via promotion)
 
 
 # Working environment 
@@ -47,4 +47,21 @@ Project coordinator: **SCRUM master** *per sprint*
 
 **Project Managment Method**
 > SCRUM
+
+- - -
+
+##**Déploiement sur Lambda:**
+Endpoint AWS: https://a6odurddmf.execute-api.eu-west-1.amazonaws.com/dev/report
+
+
+Exemple d'utilisation depuis le browser:
+https://a6odurddmf.execute-api.eu-west-1.amazonaws.com/dev/report?review="Great build quality, great screen, great battery life and the best feature is the Face ID, quick and realible, much better and fast than a fingerprint scanner. The bad side it’s too expensive for what it is."
+
+
+Utilisation avec Django:
+> git clone git@github.com:darkjinung/projet-industriel-ecp17.git
+> pip install virtualenv
+> source projet-industriel-ecp17/Django-project-chart/Projet_Indus/Scripts/activate
+> python projet-industriel-ecp17/Django-project-chart/manage.py runserver
+> Depuis un navigateur aller sur localhost:8000
 
