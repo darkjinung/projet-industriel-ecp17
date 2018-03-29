@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TellMe Interface</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container" >
+<h2>I'm telling you that </h2>
+    <table class="table table-bordered">
+        <tr>
+            <td>Your Review is </td>
+            <td>{{review}} </td>
+        </tr>
+        <tr>
+           <td>Your Topic is </td>
+           <td>{{Topic}} </td>
+        </tr>
+        <tr>
+
+            <td>with a polarity</td>
+            {% if polaritepositive %}
+              <td bgcolor="#ccffcc">  {{ polaritepositive }} <img src="https://eng.famillesproulx.org/wp-content/uploads/sites/8/2017/05/Slightly_Smiling_Face_Emoji.png" height="42" width="42" /></td>
+
+            {% elif polaritenegative %}
+              <td bgcolor="#c92240"> {{ polaritenegative }} <img src="http://www.mojportal.ba/foto/2018/02/sad-2.png" height="42" width="42"/></td>
+
+            {% endif %}
+        </tr>
+        <tr>
+            <td>here the positive features</td>
+              <td bgcolor="#ccffcc">  {{ key_feature_positive }} </td>
+        </tr>
+        <tr>
+            <td>the negative features</td>
+              <td bgcolor="#c92240">  {{ key_feature_negative }} </td>
+        </tr>
+        <tr>
+            <td>the positive sentences</td>
+              <td bgcolor="#ccffcc">  {{ sentence_positive }} </td>
+        </tr>
+        <tr>
+            <td>and the negative sentences</td>
+              <td bgcolor="#c92240">  {{ sentence_negative }} </td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
