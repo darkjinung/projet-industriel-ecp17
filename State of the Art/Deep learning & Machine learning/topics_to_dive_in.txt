@@ -1,0 +1,26 @@
+CNN
+---
+hyperparameter
+convolution
+bias
+activation function
+feature maps
+feature vector
+pooling
+pooling layers (applied after convolutional layers)
+softmax
+Stride size
+Channels
+backpropagation
+Feed-forward neural network
+Convolutional neural network
+Restricted Boltzmann machine
+Deep belief network
+Stacked autoencoders
+Deep autoencoders
+models trained with backpropagation only (no pre-training)
+
+--> Steps for deeplearning
+Construct the NN
+train the NN
+predict with
